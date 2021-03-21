@@ -6,7 +6,7 @@ require_once dirname(__FILE__)."/../config.php";
 *
 * All other DAO classes should inherit this class.
 *
-* @author Dino Keco
+* @author Damir
 */
 class BaseDao {
   protected $connection;

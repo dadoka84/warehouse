@@ -1,11 +1,11 @@
 {
-    "name": "ibu/autoresponder",
-    "description": "Auto reseponder system for intro2web course",
+    "name": "dadoka/warehouse",
+    "description": "warehouse manager",
     "license": "Apache2",
     "authors": [
         {
-            "name": "dinokeco",
-            "email": "dino.keco@gmail.com"
+            "name": "damirk",
+            "email": "dadoka84@hotmail.com"
         }
     ],
     "require": {
